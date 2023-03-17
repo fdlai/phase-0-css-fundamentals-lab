@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+header, #featured-property {
+  text-align: center;
+}
+nav a {
+  padding: 10px;
+  background-color: antiquewhite;
+}
+#featured-property p {
+  width: 800px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+img {
+  border-radius: 8px;
+  width: 850px;
+}
+#details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: antiquewhite;
+}
